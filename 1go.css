@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.ff{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(95, 95, 95);
+    color:white;
+}
+.hh{
+    background-color: rgb(23, 23, 23);
+    padding: 10px;
+    text-align: center;
+    a {
+        color: #ffffff;
+        text-decoration: none;
+        padding: 10px;
+        
+    }
+}
+main {
+    padding: 50px;
+}
