@@ -30,3 +30,17 @@
         color: white;
     }
 }
+.hop {
+    padding: 20px;
+    .hol {
+        padding: 15px;
+        background-color:rgb(174, 174, 174);
+        .holi {
+            width: 50px;
+            padding: 5px;
+        }
+        .holk {
+            padding: 5px;
+        }
+    }
+}
